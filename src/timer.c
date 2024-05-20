@@ -26,7 +26,6 @@
 # include "global.h"
 
 # include <stdio.h>
-# include <stdlib.h>
 
 # ifdef HAVE_ASSERT_H
 #  include <assert.h>
